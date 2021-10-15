@@ -1,0 +1,17 @@
+.btn{
+    background-color: gold;
+    border-style: none;
+    padding: 5px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    box-shadow: 0px 2px 2px black;
+    transition: .1s;
+}
+
+.btn:hover{
+    background-color: rgb(255, 223, 44);
+}
+
+.btn:active{
+        transform: scale(0.9);
+}
